@@ -3,14 +3,15 @@ html, body{
   }
   
   body{
-    background-image: url(../images/tacky.jpg);
+    background-image: url(../images/avengers.jpg);
     text-align: center;
-  
+    background-repeat: no-repeat;
+    background-size: cover;
   }
   
   #wrapper{
     margin:2.5% auto;
-    background-color: rgba(252, 234, 40, 0.83);
+    background-color: rgba(40, 252, 217, 0.815);
     width:960px;
     height: 95%;
     box-sizing: border-box;
@@ -38,7 +39,7 @@ html, body{
     font-family: 'Aclonica', sans-serif;
     font-size: 6.5em;
     font-weight: bold;
-    color:blue;
+    color:darkblue;
     padding-top: 2.5%;
   }
   
@@ -55,12 +56,12 @@ html, body{
   #start{
     margin-top: 10%;
     border:2px solid blue;
-    background: pink;
+    background: red;
   }
   
   
   
   button:hover {
     border:2px solid blue;
-    background: pink;
+    background: red;
   }
