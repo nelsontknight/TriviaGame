@@ -53,7 +53,7 @@ var questions = [{
   correctAnswer: "Time Stone",
   image:"assets/images/dr-strange.gif"
 }, {
-  question: 'Which group are, "The Guardians of the Galaxy?"',
+  question: 'Which group are, "The Guardians of the Galaxy"?',
   answers: ["The Thing, Human Torch, Invisible Women, Mr. Fantastic", "Professer X, Wolverine, Storm, Cyclops", "Drax, Gamora, Rocket, Groot, Star-Lord", "Iron Fist, Dare Devil, Electra, Luke Cage, Jessica Jones"],
   correctAnswer: "Drax, Gamora, Rocket, Groot, Star-Lord",
   image:"assets/images/baby-groot.gif"
